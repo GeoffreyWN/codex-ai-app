@@ -19,5 +19,5 @@ Enjoy...
 
 #### project requires OpenAI API key 
 
-![alt text](https://github.com/GeoffreyWN/codex-ai-app/blob/main/client/assets/codex-openai-1?raw=true)
+![alt text](https://github.com/GeoffreyWN/codex-ai-app/blob/main/codex-openai-1?raw=true)
 
